@@ -1,5 +1,8 @@
 # Zenn CLI
 
+これはZennCLIのnpmパッケージのスクリプトをいじった物です。
+Powered by [ZennCLI](https://github.com/zenn-dev/zenn-editor)
+
 * [使い方](https://zenn.dev/zenn/articles/zenn-cli-guide)
 
 # 個人用メモ
